@@ -1,2 +1,3 @@
 # UnitTesting
 [![Build Status](https://travis-ci.org/Santhiyasai/UnitTesting.svg?branch=master)](https://travis-ci.org/Santhiyasai/UnitTesting)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0214ac3368324199b23315bcc67d5e4a)](https://www.codacy.com/app/Santhiyasai/UnitTesting?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Santhiyasai/UnitTesting&amp;utm_campaign=Badge_Grade)
